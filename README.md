@@ -33,7 +33,7 @@ body, html {
 <div class="w3-top">
   <div class="w3-bar w3-white w3-card" id="myNavbar">
     <a href="#home" class="w3-bar-item w3-button w3-wide">NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY</a>
-    <!-- Right-sided navbar links -->
+    <!-- left-sided navbar links -->
     <div class="w3-left w3-hide-small">
       <a href="#home" class="w3-bar-item w3-button"><i class="fa fa-home"></i> HOME</a>
       <a href="#research" class="w3-bar-item w3-button"><i class="fa fa-search"></i> RESEARCH</a>
@@ -85,6 +85,8 @@ body, html {
 <div class="w3-container" style="padding:128px 16px" id="about">
   <h3 class="w3-center">OVERVIEW</h3>
   <p class="w3-center w3-large">AM data is essential for establishing part traceability, understanding AM processes and making decisions during the product development lifecycle. The curation, integration, fusion, sharing and analysis of this data are considerable challenges because AM embodies all the 4 V's characteristics of Big Data - volume, velocity, variety, and veracity.</p>
+  </div>
+  </div>
   <h3 class="w3-center">OUR FOCUS</h3>
   <div class="w3-row-padding w3-center" style="margin-top:64px">
     <div class="w3-quarter">
