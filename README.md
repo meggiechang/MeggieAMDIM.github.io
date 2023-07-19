@@ -151,7 +151,7 @@ p {
     <header>
         <h1>Data Integration and Management for Additive Manufacturing</h1>
     </header>
-    <img src="machine.jpg" alt="Machine" width="500" height="333">
+    
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
@@ -170,6 +170,7 @@ p {
         <h2>Objective</h2>
         <p>This is a basic informational website built with HTML and CSS.</p>
         <p>Explore the different sections using the navigation menu above.</p>
+        ![alt text](http://url/to/machine.jpg)
     </main>
     
     <footer>
