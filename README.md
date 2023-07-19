@@ -14,7 +14,7 @@ body {
 
 header {
     background-color: #BEA07E;
-    color: #BEA07E;
+    color: #333;
     padding: 20px;
     text-align: center;
 }
@@ -113,8 +113,8 @@ p {
         }
         
         header {
-            background-color: #333;
-            color: #fff;
+            background-color: #BEA07E;
+            color: #2F2F39;
             padding: 10px;
             text-align: center;
         }
