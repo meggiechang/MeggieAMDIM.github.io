@@ -114,7 +114,7 @@ p {
         
         header {
             background-color: #BEA07E;
-            color: #2F2F39;
+            color: #fff;
             padding: 10px;
             text-align: center;
         }
