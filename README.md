@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
-    <title>Data Integration and Management for Additive Manufacturing (AMDIM)</title>
+    <title>Data Integration and Management for Additive Manufacturing</title>
     <style>
         /* CSS styles go here */
         body {
@@ -47,14 +46,19 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Informational Website</h1>
+        <h1>Data Integration and Management for Additive Manufacturing (AMDIM)</h1>
     </header>
     
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
             <li><a href="about.html">About</a></li>
-            <li><a href="services.html">Services</a></li>
+            <li><a href="blog.html">Blog</a></li>
+            <li><a href="team.html">Team</a></li>
+            <li><a href="research.html">Research</a></li>
+            <li><a href="work.html">Work with Us</a></li>
+            <li><a href="publications.html">Publications</a></li>
+            <li><a href="news.html">News</a></li>
             <li><a href="contact.html">Contact</a></li>
         </ul>
     </nav>
