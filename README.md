@@ -37,11 +37,11 @@ body, html {
     <div class="w3-left w3-hide-small">
       <a href="#home" class="w3-bar-item w3-button"><i class="fa fa-home"></i> HOME</a>
       <a href="#research" class="w3-bar-item w3-button"><i class="fa fa-search"></i> RESEARCH</a>
-      <a href="#publications" class="w3-bar-item w3-button"><i class="	fas fa-book"></i> PUBLICATIONS</a>
-      <a href="#work with us" class="w3-bar-item w3-button"><i class="fas fa-comment-alt"></i> WORK WITH US</a>
+      <a href="#publications" class="w3-bar-item w3-button"><i class="fa fa-book"></i> PUBLICATIONS</a>
+      <a href="#work with us" class="w3-bar-item w3-button"><i class="fa fa-comments-o"></i> WORK WITH US</a>
       <a href="#team" class="w3-bar-item w3-button"><i class="fa fa-users"></i> TEAM</a>
-      <a href="#news" class="w3-bar-item w3-button"><i class="fa fa-newspaper"></i> NEWS</a>
-      <a href="#blog" class="w3-bar-item w3-button"><i class="fas fa-pencil-alt"></i> BLOG</a>
+      <a href="#news" class="w3-bar-item w3-button"><i class="fa fa-newspaper-o"></i> NEWS</a>
+      <a href="#blog" class="w3-bar-item w3-button"><i class="fa fa-pencil"></i> BLOG</a>
     </div>
     <!-- Hide right-floated links on small screens and replace them with a menu icon -->
 
@@ -70,14 +70,6 @@ body, html {
     <span class="w3-xxlarge w3-hide-large w3-hide-medium">Start something that matters</span><br>
     <span class="w3-large">Stop wasting valuable time with projects that just isn't you.</span>
     <p><a href="#about" class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">LEARN MORE</a></p>
-  </div> 
-  <div class="w3-display-bottomleft w3-text-grey w3-large" style="padding:24px 48px">
-    <i class="fa fa-facebook-official w3-hover-opacity"></i>
-    <i class="fa fa-instagram w3-hover-opacity"></i>
-    <i class="fa fa-snapchat w3-hover-opacity"></i>
-    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
-    <i class="fa fa-twitter w3-hover-opacity"></i>
-    <i class="fa fa-linkedin w3-hover-opacity"></i>
   </div>
 </header>
 
