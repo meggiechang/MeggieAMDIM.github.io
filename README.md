@@ -166,7 +166,7 @@ p {
     </nav>
     
     <main>
-        <h2>Welcome to our website!</h2>
+        <h2>Objective</h2>
         <p>This is a basic informational website built with HTML and CSS.</p>
         <p>Explore the different sections using the navigation menu above.</p>
     </main>
