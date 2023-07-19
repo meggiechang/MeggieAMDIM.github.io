@@ -1,4 +1,3 @@
-![machine](https://github.com/RayYuan2006/AMDIMRay.github.io/assets/139355710/7c2f090c-ec92-4e8d-bed3-8e1afa86d01e)
 <html>
 <head>
 <title>W3.CSS Template</title>
@@ -36,13 +35,13 @@ body, html {
     <a href="#home" class="w3-bar-item w3-button w3-wide">DATA INTEGRATION AND MANAGEMENT FOR ADDITIVE MANUFACTURING</a>
     <!-- Right-sided navbar links -->
     <div class="w3-right w3-hide-small">
-      <a href="#home" class="w3-bar-item w3-button"> HOME</a>
-      <a href="#research" class="w3-bar-item w3-button"><i class="fa fa-user"></i> RESEARCH</a>
-      <a href="#publications" class="w3-bar-item w3-button"><i class="fa fa-envelope"></i> PUBLICATIONS</a>
-      <a href="#work with us" class="w3-bar-item w3-button"><i class="fa fa-th"></i> WORK WITH US</a>
-      <a href="#team" class="w3-bar-item w3-button"><i class="fa fa-usd"></i> TEAM</a>
-      <a href="#news" class="w3-bar-item w3-button"><i class="fa fa-envelope"></i> NEWS</a>
-      <a href="#blog" class="w3-bar-item w3-button"><i class="fa fa-envelope"></i> BLOG</a>
+      <a href="#home" class="w3-bar-item w3-button"><i class="fa fa-home"></i> HOME</a>
+      <a href="#research" class="w3-bar-item w3-button"><i class="fa fa-search"></i> RESEARCH</a>
+      <a href="#publications" class="w3-bar-item w3-button"><i class="far fa-file-alt"></i> PUBLICATIONS</a>
+      <a href="#work with us" class="w3-bar-item w3-button"><i class="far fa-comment-alt"></i> WORK WITH US</a>
+      <a href="#team" class="w3-bar-item w3-button"><i class="fas fa-users"></i> TEAM</a>
+      <a href="#news" class="w3-bar-item w3-button"><i class="fas fa-newspaper"></i> NEWS</a>
+      <a href="#blog" class="w3-bar-item w3-button"><i class="fas fa-pencil-alt"></i> BLOG</a>
     </div>
     <!-- Hide right-floated links on small screens and replace them with a menu icon -->
 
