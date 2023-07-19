@@ -14,7 +14,7 @@ body {
 
 header {
     background-color: #333;
-    color: #fff;
+    color: #FF69B4;
     padding: 20px;
     text-align: center;
 }
