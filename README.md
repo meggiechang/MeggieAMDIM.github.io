@@ -170,7 +170,7 @@ p {
         <h2>Objective</h2>
         <p>This is a basic informational website built with HTML and CSS.</p>
         <p>Explore the different sections using the navigation menu above.</p>
-        ![alt text](http://url/to/machine.jpg)
+        [alt text](http://url/to/machine.jpg)
     </main>
     
     <footer>
