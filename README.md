@@ -172,7 +172,11 @@ p {
         <h2>About AMDIM</h2>
         <p>This project will develop models, methods and best practices for data lifecycle management, data integration, and data fusion in additive manufacturing to facilitate the effective and efficient curation, sharing, processing and use of AM data and enable AM knowledge discovery for process improvement.</p>
          <h2>Objectives</h2>
-         <p>1) Development of a common information model for AM lifecycle data management. 2) Development of best practices and guidelines for AM data generation, collection, sanitization, anonymizing, curation, validation and storing. 3) Development of data structure and format to represent predictive models for AM applications. 4) Development of AM data federation and information fusion methods for integrating diverse datasets. The research results will be transferred to standard development organizations to improve their existing standards or initiate new ones to fill data related AM standards gaps. </p>
+         <p>1) Development of a common information model for AM lifecycle data management. 
+         2) Development of best practices and guidelines for AM data generation, collection, sanitization, anonymizing, curation, validation and storing. 
+         3) Development of data structure and format to represent predictive models for AM applications. 
+         4) Development of AM data federation and information fusion methods for integrating diverse datasets. 
+         The research results will be transferred to standard development organizations to improve their existing standards or initiate new ones to fill data related AM standards gaps. </p>
     </main>
     
     <footer>
