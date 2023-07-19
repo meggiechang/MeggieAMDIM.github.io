@@ -53,6 +53,7 @@ main {
 }
 
 footer {
+    font family: 'Raleway',
     background-color: #333;
     color: #fff;
     padding: 20px;
