@@ -151,7 +151,7 @@ p {
     <header>
         <h1>Data Integration and Management for Additive Manufacturing</h1>
     </header>
-    
+    <img src="machine.jpg" alt="Machine" width="500" height="333">
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
