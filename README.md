@@ -2,7 +2,108 @@
 <head>
     <title>Data Integration and Management for Additive Manufacturing</title>
     <style>
-        /* CSS styles go here */
+       /* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #666;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+
+/* Specific Page Styles */
+
+/* Style for Home Page */
+h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+/* Style for About Page */
+ul {
+    margin-left: 20px;
+}
+
+/* Style for Blog Page */
+ul li a {
+    color: #333;
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 1.5;
+    transition: color 0.3s ease;
+}
+
+ul li a:hover {
+    color: #666;
+}
+
+/* Style for Team Page */
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+/* Style for Contact Page */
+p {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -56,7 +157,7 @@
             <li><a href="blog.html">Blog</a></li>
             <li><a href="team.html">Team</a></li>
             <li><a href="research.html">Research</a></li>
-            <li><a href="work.html">Work with Us</a></li>
+            <li><a href="work.html">Work With Us</a></li>
             <li><a href="publications.html">Publications</a></li>
             <li><a href="news.html">News</a></li>
             <li><a href="contact.html">Contact</a></li>
