@@ -151,7 +151,7 @@ p {
     <header>
         <h1>Data Integration and Management for Additive Manufacturing</h1>
     </header>
-    [alt text](https://github.com/[username]/[reponame]/blob/[branch]/machine.jpg?raw=true)
+    ![machine](https://github.com/meggiechang/meggiechang.github.io/assets/139355710/890ba85b-cb9e-4088-a448-60f43883035b)
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
