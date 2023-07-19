@@ -38,7 +38,7 @@ body, html {
       <a href="#home" class="w3-bar-item w3-button"><i class="fa fa-home"></i> HOME</a>
       <a href="#research" class="w3-bar-item w3-button"><i class="fa fa-search"></i> RESEARCH</a>
       <a href="#publications" class="w3-bar-item w3-button"><i class="fa fa-book"></i> PUBLICATIONS</a>
-      <a href="#work with us" class="w3-bar-item w3-button"><i class="fa fa-comments-o"></i> WORK WITH US</a>
+      <a href="#work with us" class="w3-bar-item w3-button"><i class="fa fa-handshake-o"></i> WORK WITH US</a>
       <a href="#team" class="w3-bar-item w3-button"><i class="fa fa-users"></i> TEAM</a>
       <a href="#news" class="w3-bar-item w3-button"><i class="fa fa-newspaper-o"></i> NEWS</a>
       <a href="#blog" class="w3-bar-item w3-button"><i class="fa fa-pencil"></i> BLOG</a>
@@ -81,19 +81,19 @@ body, html {
   <h3 class="w3-center">OUR FOCUS</h3>
   <div class="w3-row-padding w3-center" style="margin-top:64px">
     <div class="w3-quarter">
-      <i class="fa fa-desktop w3-margin-bottom w3-jumbo w3-center"></i>
+      <i class="fa fa-plug w3-margin-bottom w3-jumbo w3-center"></i>
       <p>1) Development of a common information model for AM lifecycle data management.</p>
     </div>
     <div class="w3-quarter">
-      <i class="fa fa-heart w3-margin-bottom w3-jumbo"></i>
+      <i class="fa fa-globe w3-margin-bottom w3-jumbo"></i>
       <p>2) Development of the best guidelines for AM data generation, collection, validation and storage.</p>
     </div>
     <div class="w3-quarter">
-      <i class="fa fa-diamond w3-margin-bottom w3-jumbo"></i>
+      <i class="fa fa-line-chart w3-margin-bottom w3-jumbo"></i>
       <p>3) Development of data structure and format to represent predictive models for AM applications.</p>
     </div>
     <div class="w3-quarter">
-      <i class="fa fa-cog w3-margin-bottom w3-jumbo"></i>
+      <i class="fa fa-object-group w3-margin-bottom w3-jumbo"></i>
       <p>4) Development of AM data federation and information fusion methods for integrating diverse datasets.</p>
     </div>
   </div>
@@ -108,7 +108,7 @@ body, html {
       <p><a href="#work" class="w3-button w3-black"><i class="fa fa-th"> </i> View Our Works</a></p>
     </div>
     <div class="w3-col m6">
-      <img class="w3-image w3-round-large" src="![architecture-buildings-chicago-mobile-wallpaper](https://github.com/meggiechang/meggiechang.github.io/assets/139355710/834f80c3-9dac-4944-b9a2-1b25fda7d11a)" alt="Buildings" width="700" height="394">
+      <img class="w3-image w3-round-large" src="/w3images/phone_buildings.jpg" alt="Buildings" width="700" height="394">
     </div>
   </div>
 </div>
