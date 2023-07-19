@@ -18,7 +18,7 @@ body, html {
 .bgimg-1 {
   background-position: center;
   background-size: cover;
-  background-image: url("metalthing.webp");
+  background-image: url("![metalthing](https://github.com/meggiechang/meggiechang.github.io/assets/139355710/34ccc88e-c4df-4fb3-b9b3-74d56b8bdd94)");
   min-height: 100%;
 }
 
