@@ -37,11 +37,11 @@ body, html {
     <div class="w3-right w3-hide-small">
       <a href="#home" class="w3-bar-item w3-button"><i class="fa fa-home"></i> HOME</a>
       <a href="#research" class="w3-bar-item w3-button"><i class="fa fa-search"></i> RESEARCH</a>
-      <a href="#publications" class="w3-bar-item w3-button"><i class="fa fa-file-alt"></i> PUBLICATIONS</a>
-      <a href="#work with us" class="w3-bar-item w3-button"><i class="fa fa-comment-alt"></i> WORK WITH US</a>
+      <a href="#publications" class="w3-bar-item w3-button"><i class="	fas fa-book"></i> PUBLICATIONS</a>
+      <a href="#work with us" class="w3-bar-item w3-button"><i class="fas fa-comment-alt"></i> WORK WITH US</a>
       <a href="#team" class="w3-bar-item w3-button"><i class="fa fa-users"></i> TEAM</a>
       <a href="#news" class="w3-bar-item w3-button"><i class="fa fa-newspaper"></i> NEWS</a>
-      <a href="#blog" class="w3-bar-item w3-button"><i class="fa fa-pencil-alt"></i> BLOG</a>
+      <a href="#blog" class="w3-bar-item w3-button"><i class="fas fa-pencil-alt"></i> BLOG</a>
     </div>
     <!-- Hide right-floated links on small screens and replace them with a menu icon -->
 
@@ -391,4 +391,3 @@ function w3_close() {
 
 </body>
 </html>
-![machine](https://github.com/RayYuan2006/AMDIMRay.github.io/assets/139355710/7c2f090c-ec92-4e8d-bed3-8e1afa86d01e)
