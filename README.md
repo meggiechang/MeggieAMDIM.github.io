@@ -105,7 +105,7 @@ body, html {
       <p>4) Development of AM data federation and information fusion methods for integrating diverse datasets.</p>
     </div>
   </div>
-</div>
+
 
 <!-- Promo Section - "We know design" -->
 <div class="w3-container w3-light-grey" style="padding:128px 16px">
