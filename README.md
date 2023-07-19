@@ -1,3 +1,4 @@
+![machine](https://github.com/RayYuan2006/AMDIMRay.github.io/assets/139355710/7c2f090c-ec92-4e8d-bed3-8e1afa86d01e)
 <html>
 <head>
 <title>W3.CSS Template</title>
@@ -80,7 +81,7 @@ body, html {
     <i class="fa fa-linkedin w3-hover-opacity"></i>
   </div>
 </header>
-![machine](https://github.com/RayYuan2006/AMDIMRay.github.io/assets/139355710/7c2f090c-ec92-4e8d-bed3-8e1afa86d01e)
+
 <!-- About Section -->
 <div class="w3-container" style="padding:128px 16px" id="about">
   <h3 class="w3-center">ABOUT THE COMPANY</h3>
