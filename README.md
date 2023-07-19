@@ -18,10 +18,10 @@ body, html {
 .bgimg-1 {
   background-position: center;
   background-size: cover;
-  background-image: url("![metalthing](https://github.com/meggiechang/meggiechang.github.io/assets/139355710/34ccc88e-c4df-4fb3-b9b3-74d56b8bdd94)");
+  background-image: url(metalthing.webp);
   min-height: 100%;
 }
-
+![metalthing](https://github.com/meggiechang/meggiechang.github.io/assets/139355710/34ccc88e-c4df-4fb3-b9b3-74d56b8bdd94)
 .w3-bar .w3-button {
   padding: 16px;
 }
