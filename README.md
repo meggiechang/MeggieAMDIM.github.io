@@ -37,7 +37,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #333;
+    color: #BEA07E;
     text-decoration: none;
     font-weight: bold;
     font-size: 16px;
@@ -83,7 +83,7 @@ ul {
 
 /* Style for Blog Page */
 ul li a {
-    color: #333;
+    color: #BEA07E;
     text-decoration: none;
     font-size: 18px;
     line-height: 1.5;
