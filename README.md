@@ -122,8 +122,8 @@ body, html {
       <div class="w3-card">
         <img src="/w3images/team2.jpg" alt="John" style="width:100%">
         <div class="w3-container">
-          <h3>John Doe</h3>
-          <p class="w3-opacity">CEO & Founder</p>
+          <h3>Yan Lu</h3>
+          <p class="w3-opacity">Project Leader</p>
           <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
           <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
         </div>
