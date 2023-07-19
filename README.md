@@ -7,14 +7,14 @@ body {
     font-family: 'Raleway', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #FF69B4;
+    background-color: #2F2F39;
     color: #333;
     line-height: 1.5;
 }
 
 header {
     background-color: #333;
-    color: #fff;
+    color: #BEA07E;
     padding: 20px;
     text-align: center;
 }
@@ -151,7 +151,7 @@ p {
     <header>
         <h1>Data Integration and Management for Additive Manufacturing</h1>
     </header>
-    
+    <img src="machine.jpg" alt="Machine" width="500" height="333">
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
@@ -167,10 +167,12 @@ p {
     </nav>
     
     <main>
-        <h2>Objective</h2>
-        <p>This is a basic informational website built with HTML and CSS.</p>
-        <p>Explore the different sections using the navigation menu above.</p>
-        [alt text](http://url/to/machine.jpg)
+        <h2>Overview</h2>
+        <p>AM data is essential for establishing part traceability, understanding AM processes and making decisions during the product development lifecycle. The curation, integration, fusion, sharing and analysis of this data are considerable challenges because AM embodies all the 4 V's characteristics of Big Data - volume, velocity, variety, and veracity.</p>
+        <h2>About AMDIM</h2>
+        <p>This project will develop models, methods and best practices for data lifecycle management, data integration, and data fusion in additive manufacturing to facilitate the effective and efficient curation, sharing, processing and use of AM data and enable AM knowledge discovery for process improvement.</p>
+         <h2>Objectives</h2>
+         <p>1) Development of a common information model for AM lifecycle data management. 2) Development of best practices and guidelines for AM data generation, collection, sanitization, anonymizing, curation, validation and storing. 3) Development of data structure and format to represent predictive models for AM applications. 4) Development of AM data federation and information fusion methods for integrating diverse datasets. The research results will be transferred to standard development organizations to improve their existing standards or initiate new ones to fill data related AM standards gaps. </p>
     </main>
     
     <footer>
