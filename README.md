@@ -108,7 +108,7 @@ body, html {
       <p><a href="#work" class="w3-button w3-black"><i class="fa fa-th"> </i> View Our Works</a></p>
     </div>
     <div class="w3-col m6">
-      <img class="w3-image w3-round-large" src="/w3images/phone_buildings.jpg" alt="Buildings" width="700" height="394">
+      <img class="w3-image w3-round-large" src="![architecture-buildings-chicago-mobile-wallpaper](https://github.com/meggiechang/meggiechang.github.io/assets/139355710/834f80c3-9dac-4944-b9a2-1b25fda7d11a)" alt="Buildings" width="700" height="394">
     </div>
   </div>
 </div>
