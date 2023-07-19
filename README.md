@@ -151,7 +151,7 @@ p {
     <header>
         <h1>Data Integration and Management for Additive Manufacturing</h1>
     </header>
-    <img src="machine.jpg" alt="Machine" width="500" height="333">
+    [alt text](https://github.com/[username]/[reponame]/blob/[branch]/machine.jpg?raw=true)
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
