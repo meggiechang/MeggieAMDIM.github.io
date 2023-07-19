@@ -34,7 +34,7 @@ body, html {
   <div class="w3-bar w3-white w3-card" id="myNavbar">
     <a href="#home" class="w3-bar-item w3-button w3-wide">DATA INTEGRATION AND MANAGEMENT FOR ADDITIVE MANUFACTURING</a>
     <!-- Right-sided navbar links -->
-    <div class="w3-right w3-hide-small">
+    <div class="w3-left w3-hide-small">
       <a href="#home" class="w3-bar-item w3-button"><i class="fa fa-home"></i> HOME</a>
       <a href="#research" class="w3-bar-item w3-button"><i class="fa fa-search"></i> RESEARCH</a>
       <a href="#publications" class="w3-bar-item w3-button"><i class="	fas fa-book"></i> PUBLICATIONS</a>
