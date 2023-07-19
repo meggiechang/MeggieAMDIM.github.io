@@ -2,12 +2,51 @@
 <head>
     <title>Data Integration and Management for Additive Manufacturing</title>
     <style>
-       /* Global Styles */
-
+        /* CSS styles go here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        
+        nav {
+            background-color: #f2f2f2;
+            padding: 10px;
+        }
+        
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        
+        nav ul li {
+            display: inline;
+            margin-right: 10px;
+        }
+        
+        main {
+            padding: 20px;
+        }
+        
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
     <header>
-        <h1>Data Integration and Management for Additive Manufacturing (AMDIM)</h1>
+        <h1>Data Integration and Management for Additive Manufacturing</h1>
     </header>
     
     <nav>
@@ -17,7 +56,7 @@
             <li><a href="blog.html">Blog</a></li>
             <li><a href="team.html">Team</a></li>
             <li><a href="research.html">Research</a></li>
-            <li><a href="work.html">Work With Us</a></li>
+            <li><a href="work.html">Work with Us</a></li>
             <li><a href="publications.html">Publications</a></li>
             <li><a href="news.html">News</a></li>
             <li><a href="contact.html">Contact</a></li>
@@ -31,7 +70,7 @@
     </main>
     
     <footer>
-        &copy; 2023 My Informational Website. All rights reserved.
+        &copy; 2023 Data Integration and Management for Additive Manufacturing. All rights reserved.
     </footer>
 </body>
 </html>
