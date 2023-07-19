@@ -7,14 +7,14 @@ body {
     font-family: 'Roboto', Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #FF69B4;
     color: #333;
     line-height: 1.5;
 }
 
 header {
     background-color: #333;
-    color: #FF69B4;
+    color: #fff;
     padding: 20px;
     text-align: center;
 }
