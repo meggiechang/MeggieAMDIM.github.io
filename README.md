@@ -8,12 +8,12 @@ body {
     margin: 0;
     padding: 0;
     background-color: #2F2F39;
-    color: #333;
+    color: #fff;
     line-height: 1.5;
 }
 
 header {
-    background-color: #333;
+    background-color: #BEA07E;
     color: #BEA07E;
     padding: 20px;
     text-align: center;
@@ -54,7 +54,7 @@ main {
 
 footer {
     font family: 'Raleway',
-    background-color: #333;
+    background-color: #BEA07E;
     color: #fff;
     padding: 20px;
     text-align: center;
