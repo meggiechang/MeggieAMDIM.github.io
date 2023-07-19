@@ -4,16 +4,17 @@
     <style>
        /* Global Styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #FFEBCD;
+    background-color: #f4f4f4;
     color: #333;
+    line-height: 1.5;
 }
 
 header {
     background-color: #333;
-    color: #FFEBCD;
+    color: #fff;
     padding: 20px;
     text-align: center;
 }
@@ -64,13 +65,12 @@ footer {
 /* Style for Home Page */
 h2 {
     color: #333;
-    font-size: 24px;
-    margin-bottom: 10px;
+    font-size: 28px;
+    margin-bottom: 15px;
 }
 
 p {
     font-size: 16px;
-    line-height: 1.5;
     margin-bottom: 15px;
 }
 
@@ -101,49 +101,9 @@ ul {
 /* Style for Contact Page */
 p {
     font-weight: bold;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        
-        header {
-            background-color: #333;
-            color: #fff;
-            padding: 10px;
-            text-align: center;
-        }
-        
-        nav {
-            background-color: #f2f2f2;
-            padding: 10px;
-        }
-        
-        nav ul {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-        }
-        
-        nav ul li {
-            display: inline;
-            margin-right: 10px;
-        }
-        
-        main {
-            padding: 20px;
-        }
-        
-        footer {
-            background-color: #333;
-            color: #fff;
-            padding: 10px;
-            text-align: center;
-        }
-    </style>
 </head>
 <body>
     <header>
