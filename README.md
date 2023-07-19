@@ -94,7 +94,7 @@ body, html {
     </div>
     <div class="w3-quarter">
       <i class="fa fa-heart w3-margin-bottom w3-jumbo"></i>
-      <p>2) Development of the best practices and guidelines for AM data generation, collection, validation and storage.</p>
+      <p>2) Development of the best guidelines for AM data generation, collection, validation and storage.</p>
     </div>
     <div class="w3-quarter">
       <i class="fa fa-diamond w3-margin-bottom w3-jumbo"></i>
