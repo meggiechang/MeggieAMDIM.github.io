@@ -20,7 +20,7 @@ header {
 }
 
 nav {
-    background-color: #f2f2f2;
+    background-color: ##BEA07E;
     padding: 10px;
 }
 
@@ -65,7 +65,7 @@ footer {
 
 /* Style for Home Page */
 h2 {
-    color: #333;
+    color: #BEA07E;
     font-size: 32px;
     margin-bottom: 20px;
 }
