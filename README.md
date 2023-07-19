@@ -65,13 +65,14 @@ footer {
 /* Style for Home Page */
 h2 {
     color: #333;
-    font-size: 28px;
-    margin-bottom: 15px;
+    font-size: 32px;
+    margin-bottom: 20px;
 }
 
 p {
-    font-size: 16px;
-    margin-bottom: 15px;
+    font-size: 18px;
+    margin-bottom: 20px;
+    line-height: 1.6;
 }
 
 /* Style for About Page */
@@ -83,7 +84,7 @@ ul {
 ul li a {
     color: #333;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.5;
     transition: color 0.3s ease;
 }
@@ -101,7 +102,7 @@ ul {
 /* Style for Contact Page */
 p {
     font-weight: bold;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
 </head>
