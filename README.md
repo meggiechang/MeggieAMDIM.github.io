@@ -4,7 +4,7 @@
     <style>
         /* CSS styles go here */
 body {
-    font-family: 'Roboto', Arial, sans-serif;
+    font-family: 'Raleway', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #FF69B4;
