@@ -75,6 +75,9 @@ background-image: url("../images/metalthing.jpg");
   <a href="#blog" onclick="w3_close()" class="w3-bar-item w3-button">BLOG</a>
 </nav>
 
+<a href="https://meggiechang.github.io/#publications">
+  Publications </a>
+  
 <!-- Header with full-height image -->
 <header class="bgimg-1 w3-display-container w3-grayscale-min" id="home">
   <div class="w3-display-left w3-text-white" style="padding:48px">
