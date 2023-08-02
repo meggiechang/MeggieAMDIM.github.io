@@ -22,6 +22,7 @@ body, html {
   min-height: 100%;
 }
 ![metalthing](https://github.com/meggiechang/meggiechang.github.io/assets/139355710/34ccc88e-c4df-4fb3-b9b3-74d56b8bdd94)
+background-image: url("../images/metalthing.webp");
 .w3-bar .w3-button {
   padding: 16px;
 }
