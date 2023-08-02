@@ -135,11 +135,6 @@ background-image: url("../images/metalthing.jpg");
   </div>
 </div>
 
-<!-- Work Section -->
-<div class="w3-container" style="padding:128px 16px" id="work">
-  <h3 class="w3-center">OUR WORK</h3>
-  <p class="w3-center w3-large">What we've done for people</p>
-
 
 
 <!-- Skills Section -->
