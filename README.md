@@ -75,8 +75,10 @@ background-image: url("../images/metalthing.jpg");
   <a href="#blog" onclick="w3_close()" class="w3-bar-item w3-button">BLOG</a>
 </nav>
 
-<a href="https://youtube.com">
-  Publications </a>
+<ul>
+  <li><a href="https://youtube.com">Youtube</a></li>
+</ul>
+
   
 <!-- Header with full-height image -->
 <header class="bgimg-1 w3-display-container w3-grayscale-min" id="home">
