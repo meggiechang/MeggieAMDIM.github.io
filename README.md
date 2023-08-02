@@ -14,18 +14,6 @@ body, html {
   line-height: 1.8;
 }
 
-* {
-    box-sizing: border-box;
-  }
-  body {
-      background-image: url("../images/metalthing.jpg");
-      background-size: cover;
-      background-position: 0% 25%;
-      background-color: #2F2F39;
-      background-attachment: fixed;
-      cursor: crosshair;
-}
-
 /* Full height image header */
 .bgimg-1 {
   background-position: center;
@@ -33,7 +21,6 @@ body, html {
   background-image: url(/w3images/mac.jpg);
   min-height: 100%;
 }
-![metalthing](https://github.com/meggiechang/meggiechang.github.io/assets/139355710/34ccc88e-c4df-4fb3-b9b3-74d56b8bdd94)
 background-image: url("../images/metalthing.jpg");
 .w3-bar .w3-button {
   padding: 16px;
