@@ -82,7 +82,6 @@ background-image: url("../images/metalthing.jpg");
       Data Integration and Management for Additive Manufacturing</span><br>
     <span class="w3-xxlarge w3-hide-large w3-hide-medium">Start something that matters</span><br>
     <span class="w3-large">Advancing our understanding of data processes.</span>
-</p>
   </div>
 </header>
 
