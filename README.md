@@ -81,7 +81,7 @@ background-image: url("../images/metalthing.jpg");
     <span class="w3-jumbo w3-hide-small">Data Integration and Management for Additive Manufacturing</span><br>
     <span class="w3-xxlarge w3-hide-large w3-hide-medium">Start something that matters</span><br>
     <span class="w3-large">Advancing our understanding of data processes.</span>
-    <p><a href="#about" class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">LEARN MORE</a></p>
+</p>
   </div>
 </header>
 
