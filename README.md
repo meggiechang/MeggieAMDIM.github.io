@@ -76,7 +76,7 @@ background-image: url("../images/metalthing.jpg");
 </nav>
 
 <ul>
-  <li><a href="https://youtube.com">Youtube</a></li>
+  <li><a href="https://www.youtube.com/">Youtube</a></li>
 </ul>
 
   
