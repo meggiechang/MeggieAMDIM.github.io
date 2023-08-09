@@ -17,14 +17,7 @@ body, html {
 * {
     box-sizing: border-box;
   }
-  body {
-      background-image: url("../images/metalthing.jpg");
-      background-size: cover;
-      background-position: 0% 25%;
-      background-color: #2F2F39;
-      background-attachment: fixed;
-      cursor: crosshair;
-}
+
 
 /* Full height image header */
 .bgimg-1 {
@@ -68,11 +61,18 @@ background-image: url("../images/metalthing.jpg");
   <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close X</a>
   <a href="#home" onclick="w3_close()" class="w3-bar-item w3-button">HOME</a>
   <a href="#research" onclick="w3_close()" class="w3-bar-item w3-button">RESEARCH</a>
+  <a href="https://www.example.com">
   <a href="#publications" onclick="w3_close()" class="w3-bar-item w3-button">PUBLICATIONS</a>
+  <a href="https://www.example.com">
   <a href="#work with us" onclick="w3_close()" class="w3-bar-item w3-button">WORK WITH US</a>
+  <a href="https://www.example.com">
   <a href="#team" onclick="w3_close()" class="w3-bar-item w3-button">TEAM</a>
-  <a href="#news" onclick="w3_close()" class="w3-bar-item w3-button">NEWS</a>  
+  <a href="https://www.example.com">
+  <a href="#news" onclick="w3_close()" class="w3-bar-item w3-button">NEWS</a> 
+  <a href="https://www.example.com">
   <a href="#blog" onclick="w3_close()" class="w3-bar-item w3-button">BLOG</a>
+  <a href="https://www.example.com">
+    
 </nav>
 
 <ul>
@@ -182,6 +182,3 @@ function w3_close() {
     mySidebar.style.display = "none";
 }
 </script>
-
-</body>
-</html>
