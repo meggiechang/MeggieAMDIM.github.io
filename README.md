@@ -53,7 +53,7 @@ background-image: url("../images/metalthing.jpg");
       <a href="work with us.html" class="w3-bar-item w3-button"><i class="fa fa-handshake-o"></i> WORK WITH US</a>
       <a href="team.html" class="w3-bar-item w3-button"><i class="fa fa-users"></i> TEAM</a>
       <a href="#news" class="w3-bar-item w3-button"><i class="fa fa-newspaper-o"></i> NEWS</a>
-      <a href="#blog" class="w3-bar-item w3-button"><i class="fa fa-pencil"></i> BLOG</a>
+      <a href="#blog.html" class="w3-bar-item w3-button"><i class="fa fa-pencil"></i> BLOG</a>
     </div>
     <!-- Hide right-floated links on small screens and replace them with a menu icon -->
 
