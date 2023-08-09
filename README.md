@@ -18,7 +18,7 @@ body, html {
     box-sizing: border-box;
   }
   body {
-      background-image: url("../images/metalthing2.jpg");
+      background-image: url("../images/metalthing.jpg");
       background-size: cover;
       background-position: 0% 25%;
       background-color: #2F2F39;
