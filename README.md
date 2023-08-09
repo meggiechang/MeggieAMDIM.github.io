@@ -17,7 +17,6 @@ body, html {
 * {
     box-sizing: border-box;
   }
-  
   body {
       background-image: url("../images/metalthing.jpg");
       background-size: cover;
@@ -26,7 +25,6 @@ body, html {
       background-attachment: fixed;
       cursor: crosshair;
 }
-
 
 /* Full height image header */
 .bgimg-1 {
@@ -51,7 +49,7 @@ background-image: url("../images/metalthing.jpg");
     <div class="w3-center w3-hide-small">
       <a href="#home" class="w3-bar-item w3-button"><i class="fa fa-home"></i> HOME</a>
       <a href="#research" class="w3-bar-item w3-button"><i class="fa fa-search"></i> RESEARCH</a>
-      <a href="publications.html" class="w3-bar-item w3-button"><i class="fa fa-book"></i> PUBLICATIONS</a>
+      <a href="#publications" class="w3-bar-item w3-button"><i class="fa fa-book"></i> PUBLICATIONS</a>
       <a href="#work with us" class="w3-bar-item w3-button"><i class="fa fa-handshake-o"></i> WORK WITH US</a>
       <a href="#team" class="w3-bar-item w3-button"><i class="fa fa-users"></i> TEAM</a>
       <a href="#news" class="w3-bar-item w3-button"><i class="fa fa-newspaper-o"></i> NEWS</a>
@@ -70,18 +68,11 @@ background-image: url("../images/metalthing.jpg");
   <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close X</a>
   <a href="#home" onclick="w3_close()" class="w3-bar-item w3-button">HOME</a>
   <a href="#research" onclick="w3_close()" class="w3-bar-item w3-button">RESEARCH</a>
-  <a href="https://www.example.com">
   <a href="#publications" onclick="w3_close()" class="w3-bar-item w3-button">PUBLICATIONS</a>
-  <a href="https://www.example.com">
   <a href="#work with us" onclick="w3_close()" class="w3-bar-item w3-button">WORK WITH US</a>
-  <a href="https://www.example.com">
   <a href="#team" onclick="w3_close()" class="w3-bar-item w3-button">TEAM</a>
-  <a href="https://www.example.com">
-  <a href="#news" onclick="w3_close()" class="w3-bar-item w3-button">NEWS</a> 
-  <a href="https://www.example.com">
+  <a href="#news" onclick="w3_close()" class="w3-bar-item w3-button">NEWS</a>  
   <a href="#blog" onclick="w3_close()" class="w3-bar-item w3-button">BLOG</a>
-  <a href="https://www.example.com">
-    
 </nav>
 
 <ul>
