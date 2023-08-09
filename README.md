@@ -191,3 +191,6 @@ function w3_close() {
     mySidebar.style.display = "none";
 }
 </script>
+
+</body>
+</html>
