@@ -51,7 +51,7 @@ background-image: url("../images/metalthing.jpg");
     <div class="w3-center w3-hide-small">
       <a href="#home" class="w3-bar-item w3-button"><i class="fa fa-home"></i> HOME</a>
       <a href="#research" class="w3-bar-item w3-button"><i class="fa fa-search"></i> RESEARCH</a>
-      <a href="#publications" class="w3-bar-item w3-button"><i class="fa fa-book"></i> PUBLICATIONS</a>
+      <a href="publications.html" class="w3-bar-item w3-button"><i class="fa fa-book"></i> PUBLICATIONS</a>
       <a href="#work with us" class="w3-bar-item w3-button"><i class="fa fa-handshake-o"></i> WORK WITH US</a>
       <a href="#team" class="w3-bar-item w3-button"><i class="fa fa-users"></i> TEAM</a>
       <a href="#news" class="w3-bar-item w3-button"><i class="fa fa-newspaper-o"></i> NEWS</a>
