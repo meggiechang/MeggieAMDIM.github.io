@@ -19,12 +19,14 @@ body, html {
   }
   
   body {
+      background-image: url("../images/metalthing.jpg");
       background-size: cover;
       background-position: 0% 25%;
       background-color: #2F2F39;
       background-attachment: fixed;
       cursor: crosshair;
 }
+
 
 /* Full height image header */
 .bgimg-1 {
